@@ -1,0 +1,11 @@
+img{
+    width:400px;
+        height:300px;
+    border-style:ridge;
+    border-color:darkblue;
+    
+}
+body{
+    text-align:center;
+    background:linear-gradient( #358c77 0%, #22574f 100%);
+}
